@@ -13,3 +13,6 @@ sudo apt-get update
 
 # Install Passenger + Nginx
 sudo apt-get install -y nginx-extras passenger
+
+#Stop apache if running
+#sudo service apache2 stop
