@@ -1,2 +1,7 @@
 # boson
-Setup script for passenger phusion with nginx
+If you want to setup a machine for buidling application on Ruby on Rails.
+This scripts help you set your machine with Passenger phusion using nginx.
+
+
+
+The official site https://www.phusionpassenger.com is taken as reference.
