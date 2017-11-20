@@ -1,6 +1,7 @@
 rvm install ruby-2.3.0
 rvm --default use ruby-2.3.0
-gem install bundler --no-rdoc --no-ri
+rvm install ruby-2.3.0-dev
+gem install bundler
 sudo apt-get install -y nodejs &&
 sudo ln -sf /usr/bin/nodejs /usr/local/bin/node
 sudo apt-get install -y dirmngr gnupg
