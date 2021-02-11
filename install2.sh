@@ -1,6 +1,6 @@
-rvm install ruby-2.3.0
+rvm install ruby-2.6.3
 rvm --default use ruby-2.3.0
-rvm install ruby-2.3.0-dev
+rvm install ruby-2.6.3-dev
 gem install bundler
 sudo apt-get install libxslt-dev libxml2-dev
 sudo apt-get install libmysqlclient-dev
