@@ -8,4 +8,5 @@ sudo usermod -a -G rvm `whoami`
 
 if sudo grep -q secure_path /etc/sudoers; then sudo sh -c "echo export rvmsudo_secure_path=1 >> /etc/profile.d/rvm_secure_path.sh" && echo Environment variable installed; fi
 
+
 echo 'Logout, come back and run install2'
